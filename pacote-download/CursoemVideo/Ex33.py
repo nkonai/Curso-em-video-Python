@@ -1,0 +1,6 @@
+n1 = float(input('Digite um numero:'))
+n2 = float(input('Digite outro numero:'))
+n3 = float(input('Digite um terceiro numero:'))
+menor = min(n1,n2,n3)
+maior = max(n1,n2,n3)
+print('O menor numero e {} e o maior numero e {}'.format(menor,maior))

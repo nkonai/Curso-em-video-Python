@@ -1,0 +1,5 @@
+Gustavo:41
+Jose:23
+Nina:65
+Maria:85
+Nicolle:32
